@@ -1,0 +1,31 @@
+{
+    "cSpell.words": [
+        "arrivedate",
+        "assemblylevel",
+        "assemblyname",
+        "Assemblyorder",
+        "assemblyordername",
+        "assemblyproduct",
+        "completetime",
+        "deliverdate",
+        "deliverlevel",
+        "innerstatus",
+        "Inventoryrecord",
+        "isgather",
+        "mtrl",
+        "opportunitys",
+        "ordername",
+        "payway",
+        "pnwdb",
+        "prdt",
+        "purchaselevel",
+        "purchasematerial",
+        "purchaseorder",
+        "purchasername",
+        "receivedmoney",
+        "responsibleuser",
+        "responsibleuserdc",
+        "sellprice",
+        "ticketnumber"
+    ]
+}

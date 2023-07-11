@@ -1,0 +1,14 @@
+1\ 删除celery模块导入
+2\ 移除incremental模块版本限定
+
+python manage.py makemigrations
+python manage.py migrate
+python manage.py startapp pnwdb
+
+python manage.py runserver 0.0.0.0:8769
+
+修改manage.py DJANGO_SETTINGS_MODULE 指定启动配置dev/pro
+
+# 数据库基础数据导出
+python manage.py dumpdata --output=data.json
+python manage.py loaddata init.json
